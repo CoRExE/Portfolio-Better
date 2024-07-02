@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio-Better/static/css/main.331a6877.css",
-    "main.js": "/Portfolio-Better/static/js/main.32e71f09.js",
-    "static/js/453.ae3d39d3.chunk.js": "/Portfolio-Better/static/js/453.ae3d39d3.chunk.js",
-    "index.html": "/Portfolio-Better/index.html",
-    "main.331a6877.css.map": "/Portfolio-Better/static/css/main.331a6877.css.map",
-    "main.32e71f09.js.map": "/Portfolio-Better/static/js/main.32e71f09.js.map",
-    "453.ae3d39d3.chunk.js.map": "/Portfolio-Better/static/js/453.ae3d39d3.chunk.js.map"
+    "main.css": "/Rolling-Cube/static/css/main.331a6877.css",
+    "main.js": "/Rolling-Cube/static/js/main.b50ea04a.js",
+    "static/js/453.51c161f8.chunk.js": "/Rolling-Cube/static/js/453.51c161f8.chunk.js",
+    "index.html": "/Rolling-Cube/index.html",
+    "main.331a6877.css.map": "/Rolling-Cube/static/css/main.331a6877.css.map",
+    "main.b50ea04a.js.map": "/Rolling-Cube/static/js/main.b50ea04a.js.map",
+    "453.51c161f8.chunk.js.map": "/Rolling-Cube/static/js/453.51c161f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.331a6877.css",
-    "static/js/main.32e71f09.js"
+    "static/js/main.b50ea04a.js"
   ]
 }
